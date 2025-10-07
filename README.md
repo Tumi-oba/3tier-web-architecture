@@ -24,7 +24,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 
 ### Download Code from Github
 
-git clone https://github.com/awsactivators/3-tier-web-architecture.git
+git clone https://github.com/tumi-oba/3tier-web-architecture.git
 
 ### S3 Bucket Creation
 
